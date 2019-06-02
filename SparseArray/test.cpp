@@ -9,7 +9,7 @@ int main(){
 	print_2d_array(vec1);
 	
   for(auto i = 0 ; i < 10 ; ++i){
-		vec[i][i] = i;
+		vec1[i][i] = i;
 	}
 	print_2d_array(vec1);
 	
